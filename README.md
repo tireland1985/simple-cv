@@ -4,9 +4,9 @@
 [Demo](https://tireland1985.github.io/simple-cv/index.html)
 
 ### Validation Evidence:
-![html validation](http://timireland.uk/simple-cv/html.jpg)
-\
-![css validation](http://timireland.uk/simple-cv/css.jpg)
-\
+![html validation](http://timireland.uk/simple-cv/html.jpg)\
+
+![css validation](http://timireland.uk/simple-cv/css.jpg)\
+
 ### Audit Report:
 ![Chrome Audit](http://timireland.uk/simple-cv/audit.jpg)
