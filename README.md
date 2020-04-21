@@ -9,4 +9,4 @@
 ![css validation](http://timireland.uk/simple-cv/css.jpg)
 \
 ### Audit Report:
-![Chrome Audit](http://timireland.uk/simple-cv/audit.png)
+![Chrome Audit](http://timireland.uk/simple-cv/audit.jpg)
